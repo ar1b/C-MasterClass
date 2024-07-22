@@ -1,0 +1,14 @@
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/bin/Debug/net8.0/DiceRollGame
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/bin/Debug/net8.0/DiceRollGame.deps.json
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/bin/Debug/net8.0/DiceRollGame.runtimeconfig.json
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/bin/Debug/net8.0/DiceRollGame.dll
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/bin/Debug/net8.0/DiceRollGame.pdb
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.AssemblyInfoInputs.cache
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.AssemblyInfo.cs
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.csproj.CoreCompileInputs.cache
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.dll
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/refint/DiceRollGame.dll
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.pdb
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.genruntimeconfig.cache
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/ref/DiceRollGame.dll
