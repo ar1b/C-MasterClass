@@ -12,3 +12,4 @@
 /Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.pdb
 /Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.genruntimeconfig.cache
 /Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/ref/DiceRollGame.dll
+/Volumes/MY PASSPORT/Udemy/C#MasterClass/DiceRollGame/obj/Debug/net8.0/DiceRollGame.sourcelink.json
